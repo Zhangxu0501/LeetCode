@@ -1,4 +1,4 @@
-package problem5_longest_palindrome.problem3_longest_substring___;
+package problem5_longest_palindrome;
 
 
 /**
