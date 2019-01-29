@@ -1,4 +1,4 @@
-package problem11_max_area.problem7_reverse_integer;
+package problem11_max_area;
 
 
 /**
