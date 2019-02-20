@@ -1,4 +1,4 @@
-package problem142_linked_list_cycle_ii.problem93_restore_ip_addresses;
+package problem142_linked_list_cycle_ii;
 
 import problem2_add_two.ListNode;
 
