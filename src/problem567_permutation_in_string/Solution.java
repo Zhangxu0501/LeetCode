@@ -47,6 +47,6 @@ class Solution {
     }
 
     public static void main(String[] args) {
-        System.out.println(checkInclusion("adcc","dcdac"));
+        System.out.println(checkInclusion("adcc","oooadfccppp"));
     }
 }
