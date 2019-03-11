@@ -14,8 +14,6 @@
 动态规划，将已经是回文的子串存储，而不是每次遍历检测。
 
 状态转移方程及边界条件
-dp[i][j]={dp[i+1][j−1],S[i]==S[j]
 
-false,S[i]!=S[j]   
 
-边界：dp[i][i]=1，dp[i][i+1] = (S[i] == S[i+1]) ? 1 : 0。   
+![avatar](https://github.com/Zhangxu0501/LeetCode/blob/master/src/image/5C581660-A6CB-4429-B78E-DDC9CFA3B021.png?raw=true)
