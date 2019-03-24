@@ -1,4 +1,4 @@
-package problem103_binary_tree_zigzag_level_order_traversal.problem1_two_sum;
+package problem103_binary_tree_zigzag_level_order_traversal;
 
 import problem236_LCA.TreeNode;
 

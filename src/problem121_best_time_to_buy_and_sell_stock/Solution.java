@@ -1,4 +1,4 @@
-package problem121_best_time_to_buy_and_sell_stock.problem236_LCA;
+package problem121_best_time_to_buy_and_sell_stock;
 
 
 /**
