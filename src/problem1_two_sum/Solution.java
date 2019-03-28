@@ -2,6 +2,7 @@ package problem1_two_sum;
 
 import java.util.HashMap;
 import java.util.Map;
+import java.util.Vector;
 
 /**
  * @author zhangxu create on 2019/1/15
