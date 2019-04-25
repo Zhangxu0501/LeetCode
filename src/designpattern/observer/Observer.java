@@ -1,4 +1,4 @@
-package designpattern;
+package designpattern.observer;
 
 /**
  * @author zhangxu create on 2019/4/1

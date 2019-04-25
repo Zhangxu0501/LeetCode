@@ -1,10 +1,10 @@
-package designpattern;
+package designpattern.observer;
 
 /**
  * @author zhangxu create on 2019/4/1
  * version 1.0
  */
-public class Persion implements Observer{
+public class Persion implements Observer {
     private  String name;
     public Persion(String name){
         this.name=name;

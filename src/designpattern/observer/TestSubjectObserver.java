@@ -1,4 +1,4 @@
-package designpattern;
+package designpattern.observer;
 
 /**
  * @author anzhi
